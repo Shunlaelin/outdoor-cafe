@@ -1,0 +1,99 @@
+body{
+	font-family: 'Nunito', sans-serif;
+}
+.div1{
+	width: 100%;
+	height: 200px;
+	background: rgba(0, 0, 0, 0.1);
+	position: relative;
+
+}
+.div2{
+	width: 100%;
+	height: 200px;
+	position: relative;
+}
+.div3{
+	width: 100%;
+	height: 200px;
+	background: rgba(0, 0, 0, 0.1);
+	position: relative;
+}
+.img1{
+	width: 15%;
+	height: 150px;
+	position: absolute;
+	top: 20px;
+	left: 30px;
+}
+.img2{
+	width: 15%;
+	height: 150px;
+	position: absolute;
+	top: 20px;
+	left: 30px;
+}
+.img3{
+	width: 15%;
+	height: 150px;
+	position: absolute;
+	top: 20px;
+	left: 30px;
+}
+h1{
+	position: absolute;
+	left: 49%;
+	letter-spacing: 3px;
+}
+.t1{
+	position: absolute;
+	left: 48%;
+	top: 70px;
+	letter-spacing: 3px;
+}
+.t2{
+	position: absolute;
+	left: 46%;
+	top: 100px;
+	letter-spacing: 3px;
+}
+.c1{
+	position: absolute;
+	left: 48%;
+	top: 70px;
+	letter-spacing: 3px;
+}
+.c2{
+	position: absolute;
+	left: 46%;
+	top: 100px;
+	letter-spacing: 3px;
+}
+.s1{
+	position: absolute;
+	left: 48%;
+	top: 70px;
+	letter-spacing: 3px;
+}
+.s2{
+	position: absolute;
+	left: 46%;
+	top: 100px;
+	letter-spacing: 3px;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+a:hover{
+	text-decoration: underline;
+}
+.button{
+	text-decoration: none;
+	color: #1C1818;
+	border: 3px solid #1C1818;
+	border-radius: 5px;
+	position: absolute;
+	bottom: 3px;
+	left: 0;
+}
